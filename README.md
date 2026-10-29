@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TextMate Free Installer** — TextMate is a powerful macOS text editor known for introducing revolutionary features like snippet expansion, project drawers, and shell integration that influenced a generation of text editors. Works without internet access, no account required. Full offline installation.
+**💻 TextMate Free Installer** — TextMate is a macOS text editor famous for popularizing many features now standard in code editors: snippets, scope-based syntax highlighting, and project drawers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TextMate
 
-TextMate is a powerful macOS text editor known for introducing revolutionary features like snippet expansion, project drawers, and shell integration that influenced a generation of text editors. With a rich bundle ecosystem for language support, build systems, and custom commands, TextMate remains a popular choice for macOS developers and writers who prefer a fast, keyboard-driven editing experience.
+TextMate is a macOS text editor famous for popularizing many features now standard in code editors: snippets, scope-based syntax highlighting, and project drawers. It sparked an entire generation of editors including Sublime Text and VS Code.
 
 ---
 
 ## ❌ Problem: TextMate is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Development Pace** — Updates have historically been slow; development sporadic
-- **Bundle Complexity** — Advanced functionality requires learning the bundle system
-- **Competition** — Modern editors like VS Code have surpassed it in ecosystem size
+- **macOS Only** — No Windows or Linux version available
+- **Development Slowed** — TextMate 2 development pace has been very slow for years
+- **Plugin Ecosystem Aging** — Many bundles not updated for years; compatibility with modern frameworks varies
+- **Overshadowed** — VS Code and Nova have largely replaced it for new users
 
 ---
 
@@ -121,7 +121,7 @@ TextMate is a powerful macOS text editor known for introducing revolutionary fea
 
 ---
 
-**TextMate Free Installer** — TextMate is a powerful macOS text editor known for introducing revolutionary features like snippet expansion, project drawers, and shell integration that influenced a generation of text editors. Install without internet connection today!
+**TextMate Free Installer** — TextMate is a macOS text editor famous for popularizing many features now standard in code editors: snippets, scope-based syntax highlighting, and project drawers. Install without internet connection today!
 
 <div align="center">
 
